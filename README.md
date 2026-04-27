@@ -1,7 +1,7 @@
 # Meteo 473 Threat Index — Group 8
 
 ## Project Description
-We developed a wildfire threat index using GFS model data...
+A Python script that generates where in the United States has ideal weather conditions considered to be "perfect".
 
 ## Group Members
 - Sam "Run" Testa
