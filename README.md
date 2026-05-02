@@ -26,7 +26,7 @@ When the script 'pwo_gen.py' is ran, the script will instantly create two new fo
 
 ## How to Run
 1. Run "pwo_gen.py"
-2. Enter a valid date using YYYY-MM-DD-HH format (i.e. 2025-04-29-12)
+2. Enter a valid date to be your init time using YYYY-MM-DD-HH format (i.e. 2025-04-29-12)
 3. Your Pleasant Weather Outlook images will deposit 20 images into a folder called 'img_pwo'
 
 ## License
