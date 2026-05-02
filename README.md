@@ -5,7 +5,7 @@ A Python script that generates where in the United States has ideal weather cond
 Pleasant Weather Outlook utilizes the North American Model every 3 hours for a total of 60 hours out from the valid time entered.
 
 ## Group Members
-- Sam "Run" Testa
+- Sam Testa
 - Mark Riglin
 - Christopher LaRosa
 
