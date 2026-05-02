@@ -22,12 +22,12 @@ When the script 'pwo_gen.py' is ran, the script will instantly create two new fo
 - 'netcdf' is created for .nc files that contain the four variables from the NAM for the valid time entered by the user.
 - 'img_pwo' is created for the 21 images that are created of the PWO and are sequentially numbered by the number of hours after the initial time (i.e. if the user enters 04-29-25-12z valid time, 'pwo_04-29-25-12_03.png' is three hours after the valid time (15z))
 
-**This may take longer than desired as the NAM is a high resolution model.**
+**This may take longer than desired as the NAM is a high resolution model. Allow a minute or two to run!**
 
 ## How to Run
 1. Run "pwo_gen.py"
 2. Enter a valid date to be your init time using YYYY-MM-DD-HH format (i.e. 2025-04-29-12)
-3. Your Pleasant Weather Outlook images will deposit 20 images into a folder called 'img_pwo'
+3. Your Pleasant Weather Outlook images will deposit 21 images into a folder called 'img_pwo'
 
 ## License
 MIT
