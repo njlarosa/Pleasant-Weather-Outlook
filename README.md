@@ -33,4 +33,4 @@ When the script 'pwo_gen.py' is ran, the script will instantly create two new fo
 MIT
 
 ## Member Contributions
-All member contributions equal
+All member contributions equal between Samuel Testa, Mark Riglin, and Christopher LaRosa.
