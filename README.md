@@ -31,3 +31,6 @@ When the script 'pwo_gen.py' is ran, the script will instantly create two new fo
 
 ## License
 MIT
+
+## Member Contributions
+All member contributions equal
