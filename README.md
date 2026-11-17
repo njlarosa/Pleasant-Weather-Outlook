@@ -1,6 +1,7 @@
 # Meteo 473 Threat Index — Group 8
 
 ## Project Description
+**The NAM model was discontinued in November 2026. As a result, the Outlook will only function as a historical viewing for model runs prior to 11/03/2026 06Z.**
 A Python script that generates where in the United States has ideal weather conditions considered to be "pleasant".
 Pleasant Weather Outlook utilizes the North American Model every 3 hours for a total of 60 hours out from the valid time entered.
 
